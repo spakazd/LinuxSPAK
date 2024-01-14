@@ -1,0 +1,17 @@
+### Basic Commands ####
+cal -- Calander
+date -- Date
+ls -- List of directories content
+man ls -- for manually help
+echo hello -- command ( echo) hello ( arguments)
+ping google.com --ping command
+## Arguments are two types
+  * Positional Argument and Named Argument
+ping -c google.com to 4 times
+touch file1 -- to create empty file.
+cat file 1 to create file and write something or read the content.
+cp file1 file2 -- to copy files
+mv file1 file2 -- to rename files
+vi file1  -- to edit file
+diff -u file1 file2 -- to see difference b/w files
+
